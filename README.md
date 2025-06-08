@@ -6,6 +6,8 @@ Support for other Unreal Engine 5 versions is coming soon. Please use this tool 
 
 The **Texture Preset Manager** is a lightweight Unreal Engine 5 plugin that lets you apply consistent texture settings across your project, either **manually via an Editor Utility Widget** or **automatically during import** based on folder rules.
 
+Overview and instalisation guide: https://youtube.com/playlist?list=PLpjKlZ2EDiUNGOMgCuOdoSQzfM0TVFTWZ&si=cAadaj2F4aiJdpM9 
+
 ---
 
 ## Features
